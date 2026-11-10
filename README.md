@@ -23,7 +23,10 @@
 ## Methods and tools
 
 - **R** · 100%
-- **Python**
+- **Python** · 100%
+- **R Shiny** · 100%
+- **Streamlit** · 100%
+- **LaTeX** · 100%
 
 
 ## Research notes
