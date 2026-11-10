@@ -1,14 +1,54 @@
-# 💫 About Me:
-Current 3rd year student ->  Bachelor of Science (Hons) in Statistics with Data Science 
+## Data lab notebook
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sametha-s-5805363a5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32177322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sametha.s06@gmail.com) 
+# Sametha S
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+> Product-minded developer
 
----
-[![](https://visitcount.itsvg.in/api?id=sametha-s&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=sametha-s&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248460359%3Fv%3D4" alt="sametha-s hero visual" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## Evidence
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=sametha-s&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248460359%3Fv%3D4" alt="sametha-s stats visual" />
+</p>
+
+<p><code>20 contributions</code> · <code>0 day streak</code></p>
+
+## Methods and tools
+
+- **R** · 100%
+
+## Research notes
+
+<details open>
+<summary><b>profile.manifest</b></summary>
+
+```yaml
+name: Sametha S
+focus: public experiments
+languages: [R]
+repositories: 2
+```
+
+</details>
+
+## Experiments
+
+- **[sametha-s](https://github.com/sametha-s/sametha-s)** — Featured public work · ⭐ 0
+- **[stroke_prediction_logit](https://github.com/sametha-s/stroke_prediction_logit)** — Featured public work · ⭐ 0
+
+## Compare notes
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=sametha-s&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248460359%3Fv%3D4" alt="sametha-s social visual" />
+</p>
+
+<a href="https://github.com/sametha-s">GitHub</a>
+
+<p align="center"><sub>Sametha S · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
