@@ -4,7 +4,7 @@
 
 # Sametha S
 
-> Product-minded developer
+> BSc Statistics (Hons)
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=sametha-s&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248460359%3Fv%3D4" alt="sametha-s hero visual" />
@@ -23,6 +23,8 @@
 ## Methods and tools
 
 - **R** · 100%
+- **Python**
+
 
 ## Research notes
 
