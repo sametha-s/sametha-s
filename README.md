@@ -29,9 +29,10 @@ Currently learning, experimenting, and building my skills one project at a time!
   <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=6D597A"/>
   <img src="https://img.shields.io/badge/R-CDB4DB?style=for-the-badge&logo=r&logoColor=49365C"/>
   <img src="https://img.shields.io/badge/SQL-BDE0FE?style=for-the-badge&logo=postgresql&logoColor=315477"/>
+  <img src="https://img.shields.io/badge/LaTeX-FFDAC1?style=for-the-badge&logo=latex&logoColor=795548"/>
 </p>
 
-**Libraries & Frameworks**
+**Data Science & Analysis**
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-FFC8DD?style=for-the-badge&logo=pandas&logoColor=6D597A"/>
@@ -40,11 +41,13 @@ Currently learning, experimenting, and building my skills one project at a time!
   <img src="https://img.shields.io/badge/Scikit--Learn-FFDAC1?style=for-the-badge&logo=scikitlearn&logoColor=795548"/>
 </p>
 
-**Tools**
+**Databases & Development Tools**
 
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-BDE0FE?style=for-the-badge&logo=postgresql&logoColor=315477"/>
+  <img src="https://img.shields.io/badge/pgAdmin-CDB4DB?style=for-the-badge&logo=postgresql&logoColor=49365C"/>
   <img src="https://img.shields.io/badge/Jupyter-FFF1B6?style=for-the-badge&logo=jupyter&logoColor=8A5A20"/>
-  <img src="https://img.shields.io/badge/GitHub-E6D5F7?style=for-the-badge&logo=github&logoColor=49365C"/>
+  <img src="https://img.shields.io/badge/GitHub-FFC8DD?style=for-the-badge&logo=github&logoColor=6D597A"/>
 </p>
 
 ---
@@ -78,7 +81,7 @@ A little collection of my learning journey and projects!
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&title_color=C084A7&icon_color=B39DDB&text_color=777777&bg_color=FFF7FB&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sametha-s&show_icons=true&theme=default&title_color=C084A7&icon_color=B39DDB&text_color=777777&bg_color=FFF7FB&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&title_color=C084A7&text_color=777777&bg_color=FFF7FB&hide_border=true" />
 </p>
 
@@ -91,6 +94,9 @@ I'm always happy to connect with fellow students, developers, and data enthusias
 <p>
   <a href="www.linkedin.com/in/sametha-s-">
     <img src="https://img.shields.io/badge/LinkedIn-E6D5F7?style=for-the-badge&logo=linkedin&logoColor=6D597A"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=6D597A"/>
   </a>
   <a href="https://github.com/sametha-s">
     <img src="https://img.shields.io/badge/GitHub-FFC8DD?style=for-the-badge&logo=github&logoColor=6D597A"/>
