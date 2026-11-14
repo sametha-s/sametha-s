@@ -10,6 +10,16 @@ Currently learning, experimenting, and building my skills one project at a time!
 
 ---
 
+### 💗 My Portfolio
+
+Explore my projects across Statistics, Data Science, and Data Analytics!
+
+🎀 [**View My Data Science Portfolio**](https://github.com/sametha-s/data-science-portfolio)
+
+A curated collection of my projects, experiments, and learning journey ♡
+
+---
+
 ### 🌷 About Me
 
 - 🎓 Bachelor of Science in Statistics (Honours)
@@ -70,24 +80,6 @@ Currently learning, experimenting, and building my skills one project at a time!
 
 ---
 
-### 💗 My Portfolio
-
-Explore my projects across Statistics, Data Science, and Data Analytics!
-
-🎀 [**View My Data Science Portfolio**](https://github.com/sametha-s/data-science-portfolio)
-
-A curated collection of my projects, experiments, and learning journey ♡
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sametha-s&show_icons=true&theme=default&title_color=C084A7&icon_color=B39DDB&text_color=777777&bg_color=FFF7FB&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametha-s&layout=compact&theme=default&title_color=C084A7&text_color=777777&bg_color=FFF7FB&hide_border=true" />
-</p>
-
----
 
 ### 🌼 Let's Connect!
 
