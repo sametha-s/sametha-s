@@ -1,59 +1,104 @@
-## Data lab notebook
+# ˚₊‧꒰ა Hello, I'm Sametha! ໒꒱ ‧₊˚
 
-<div align="center">
+### 🎀 Statistics Student | Aspiring Data Scientist
 
-# Sametha S
+Welcome to my GitHub! ♡
 
-> BSc Statistics (Hons)
+I'm an undergraduate Statistics student with an interest in **Data Science, Data Analytics, and Statistical Modelling**. I enjoy exploring datasets, uncovering patterns, and learning how to turn raw data into meaningful insights.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=sametha-s&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248460359%3Fv%3D4" alt="sametha-s hero visual" />
+Currently learning, experimenting, and building my skills one project at a time!
+
+---
+
+### 🌷 About Me
+
+- 🎓 Bachelor's Degree in Statistics (Honours)
+- 🐍 Currently developing my Python, R and SQL skills!
+- 📊 Interested in Data Science, Statistical Analysis & Machine Learning
+- 💻 Exploring data manipulation, visualisation, and predictive modelling
+- 🌱 Always learning something new
+- ✨ Working towards becoming a Data Scientist
+
+---
+
+### 🧸 Languages & Technologies
+
+**Programming Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=6D597A"/>
+  <img src="https://img.shields.io/badge/R-CDB4DB?style=for-the-badge&logo=r&logoColor=49365C"/>
+  <img src="https://img.shields.io/badge/SQL-BDE0FE?style=for-the-badge&logo=postgresql&logoColor=315477"/>
 </p>
 
-</div>
+**Libraries & Frameworks**
 
-## Evidence
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=sametha-s&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248460359%3Fv%3D4" alt="sametha-s stats visual" />
+<p>
+  <img src="https://img.shields.io/badge/Pandas-FFC8DD?style=for-the-badge&logo=pandas&logoColor=6D597A"/>
+  <img src="https://img.shields.io/badge/NumPy-CDB4DB?style=for-the-badge&logo=numpy&logoColor=49365C"/>
+  <img src="https://img.shields.io/badge/Matplotlib-BDE0FE?style=for-the-badge&logo=plotly&logoColor=315477"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-FFDAC1?style=for-the-badge&logo=scikitlearn&logoColor=795548"/>
 </p>
 
-<p><code>20 contributions</code> · <code>0 day streak</code></p>
+**Tools**
 
-## Methods and tools
-
-- **R** · 100%
-- **Python** · 100%
-- **R Shiny** · 100%
-- **Streamlit** · 100%
-- **LaTeX** · 100%
-
-
-## Research notes
-
-<details open>
-<summary><b>profile.manifest</b></summary>
-
-```yaml
-name: Sametha S
-focus: public experiments
-languages: [R]
-repositories: 2
-```
-
-</details>
-
-## Experiments
-
-- **[sametha-s](https://github.com/sametha-s/sametha-s)** — Featured public work · ⭐ 0
-- **[stroke_prediction_logit](https://github.com/sametha-s/stroke_prediction_logit)** — Featured public work · ⭐ 0
-
-## Compare notes
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=sametha-s&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248460359%3Fv%3D4" alt="sametha-s social visual" />
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-FFF1B6?style=for-the-badge&logo=jupyter&logoColor=8A5A20"/>
+  <img src="https://img.shields.io/badge/GitHub-E6D5F7?style=for-the-badge&logo=github&logoColor=49365C"/>
 </p>
 
-<a href="https://github.com/sametha-s">GitHub</a>
+---
 
-<p align="center"><sub>Sametha S · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+### 📚 Currently Learning
+
+- Python programming and data manipulation
+- Exploratory Data Analysis (EDA)
+- Data visualisation using Matplotlib
+- Statistical analysis and modelling
+- Machine Learning fundamentals
+- SQL for data querying and management
+
+---
+
+### 💗 Featured Projects
+
+A little collection of my learning journey and projects!
+
+| Project | Description | Tools |
+|:---|:---|:---|
+| 🌸 Coming Soon | Exploratory Data Analysis | Python, Pandas |
+| 🦋 Coming Soon | Statistical Analysis | R, Statistics |
+| 🎀 Coming Soon | Machine Learning | Python, Scikit-learn |
+| ☁️ Coming Soon | Data Visualisation | Python, Matplotlib |
+
+*More projects coming as I continue learning and experimenting!*
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&title_color=C084A7&icon_color=B39DDB&text_color=777777&bg_color=FFF7FB&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&title_color=C084A7&text_color=777777&bg_color=FFF7FB&hide_border=true" />
+</p>
+
+---
+
+### 🌼 Let's Connect!
+
+I'm always happy to connect with fellow students, developers, and data enthusiasts!
+
+<p>
+  <a href="www.linkedin.com/in/sametha-s-">
+    <img src="https://img.shields.io/badge/LinkedIn-E6D5F7?style=for-the-badge&logo=linkedin&logoColor=6D597A"/>
+  </a>
+  <a href="https://github.com/sametha-s">
+    <img src="https://img.shields.io/badge/GitHub-FFC8DD?style=for-the-badge&logo=github&logoColor=6D597A"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>୨୧ Learning, growing & finding patterns in the data, one day at a time. ♡</i>
+</p>
