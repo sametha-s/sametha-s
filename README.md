@@ -44,7 +44,9 @@ A curated collection of my projects, experiments, and learning journey ♡
 
 **Dashboards**
 <p>
-  <img src="https://img.shields.io/badge/Python_Streamlit"/>
+  <img src="https://img.shields.io/badge/Python_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Python Streamlit"/>
+  <img src="https://img.shields.io/badge/R_Shiny-CBC3E3?style=for-the-badge&logo=shiny&logoColor=white"/>
+</p>"/>
 </p>
 
 **Data Analysis & Visualisation**
