@@ -8,6 +8,8 @@ I'm an undergraduate Statistics student with an interest in **Data Science, Data
 
 Currently learning, experimenting, and building my skills one project at a time!
 
+[![My Skills](https://skillicons.dev/icons?i=r,py,postgres,latex)](https://skillicons.dev)
+
 ---
 
 ### 💗 My Portfolio
