@@ -42,6 +42,11 @@ A curated collection of my projects, experiments, and learning journey ♡
   <img src="https://img.shields.io/badge/LaTeX-FFDAC1?style=for-the-badge&logo=latex&logoColor=795548"/>
 </p>
 
+**Dashboards**
+<p>
+  <img src="https://img.shields.io/badge/Python_Streamlit"/>
+</p>
+
 **Data Analysis & Visualisation**
 
 <p>
